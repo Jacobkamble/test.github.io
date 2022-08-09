@@ -9,7 +9,6 @@ const form = document.getElementById("myform");
 const spinner=document.getElementById("spinner");
 
 
-// console.log(btn,)
 // consider name,phone and email is not valid to check
 let isUsernameValid = false;
 let isPhoneValid = false;
